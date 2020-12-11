@@ -1,0 +1,3 @@
+POST https://us-central1-smart-textile137.cloudfunctions.net/app/products/create HTTP/1.1
+
+{"pattern":"pattern","sp":"5000","fabric":"Velvette","width":"0909","sub_category":"Wedding","brand":"Ankit Enterprise","work":"work","secondary_img":"-","name":"AAA","payment_options":["COD"],"primary_img":"=","sleeve_type":"Short Sleeves","use":"Wedding","sample_order":"sample","unit_type":"abc","packaging_details":"Cardboard boxes","ocassion":"Wedding","material":"aaa","set_content":"content","delivery_time":"2 days","cp":"5000","blouse_fabric":"Velvette","min_order":"50","mrp":"5000","size":["XXL"],"stiched_type":"stitched","supply":"abc","description":"abcdc","uid":"123","colour":["Red","Green"],"category":"Saree","dispatch_loc":"Surat"}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1059062249604",
+    "firebase_url": "https://smarttextile-137.firebaseio.com",
+    "project_id": "smarttextile-137",
+    "storage_bucket": "smarttextile-137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059062249604:android:73b98e5e2d4bf85e7b2ad1",
+        "android_client_info": {
+          "package_name": "com.cerebro.smarttextile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059062249604-at1f27vt0qjgq6tpb9e8pd2cq3v4e7qs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cerebro.smarttextile",
+            "certificate_hash": "0a17de1f1f70f2204246ae1844ef896907eaa93f"
+          }
+        },
+        {
+          "client_id": "1059062249604-gq5pu7litgccaqkhq7347m972jgqfrsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmEwOQmYqrl8zCnrw77kQQ5K4RPdxxmNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059062249604-gq5pu7litgccaqkhq7347m972jgqfrsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
